@@ -16,8 +16,22 @@ const isCircleEarth = true;
 // false = yo'q | not'g'ri
 
 // null
-console.log(clientName);
+// console.log(clientName);
 
 // undefind
 let dvc;
 console.log(dvc);
+
+//Object 
+const thief = {
+ //key :value; 
+  age:30, //number 
+  Jacked:"black",//string
+  isLong:false // boolean
+};
+console.log(thief.age);
+
+// array 
+//                 0       1       2
+const colors = ["green","yellow","blue"]
+console.log(colors[2]);

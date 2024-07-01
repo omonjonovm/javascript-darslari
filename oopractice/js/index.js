@@ -25,16 +25,17 @@
 // const employee = addEmployee("Devis",17);
 // employee.greet()
 
-class Car {
-  constructor(color, model, speed) {
-    this.color = color;
-    this.model = model;
-    this.speed = speed;
-  }
-  drive() {
-    console.log("The Car is drivng");
-  }
-}
+// class Car {
+//   constructor(color, model, speed) {
+//     this.color = color;
+//     this.model = model;
+//     this.speed = speed;
+//   }
+//   drive() {
+//     console.log("The Car is drivng");
+//   }
+// }
 
-let myCar = new Car("red","Toyota",200);
-console.log(myCar);
+// let myCar = new Car("red","Toyota",200);
+// console.log(myCar);
+
